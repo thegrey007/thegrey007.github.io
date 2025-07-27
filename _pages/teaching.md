@@ -1,12 +1,11 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+permalink: /courses/
+title: Courses
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I have taken a variety of courses over the years, leaning towards more mathematical courses towards the end of my B. Tech. Some of my favourite courses over the years include:
 
-Organize your courses by years, topics, or universities, however you like!
+- Signals and Systems (EE1101) 
