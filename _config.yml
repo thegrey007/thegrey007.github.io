@@ -3,15 +3,15 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Shreya
-middle_name: .S.
-last_name: Ramanujam
+first_name: Shreya S Ramanujam
+middle_name: 
+last_name: 
 email: sramanuj@stanford.edu
 description: # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text:
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon:  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://thegrey007.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -109,7 +109,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  The best way to reach me is by email - ee21b126 <at> smail <dot> iitm <dot> ac <dot> in.
+  The best way to reach me is by email - sramanuj <at> stanford <dot> edu.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
