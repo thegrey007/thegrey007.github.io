@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! I am Shreya S Ramanujam, an incoming first-year MS EE student at Stanford. Previously, I earned my B. Tech in Electrical Engineering from IIT Madras, where I graduated ranked 2<sup>nd</sup> in my department and won the American Express Award for the best academic record among all women graduates. I also earned a Minor in AI/ML. My interests lie in the theoretical aspects of machine learning, especially generative models. My B. Tech Thesis under [Prof. Andrew Thangaraj](https://www.ee.iitm.ac.in/andrew/) was on experimentally and theoretically analyzing model collapse in a wide range of generative models.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
