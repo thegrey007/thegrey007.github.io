@@ -2,9 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://www.linkedin.com/in/shreya-s-ramanujam/" target="_blank">LinkedIn</a>. 
-<a href="https://github.com/thegrey007" target="_blank">GitHub</a>. 
-<a href="mailto:sramanuj@stanford.edu">Email</a>. 
+subtitle: <a href="https://www.linkedin.com/in/shreya-s-ramanujam/" target="_blank">LinkedIn</a>. <a href="https://github.com/thegrey007" target="_blank">GitHub</a>. <a href="mailto:sramanuj@stanford.edu">Email</a>. 
 profile:
   align: right
   image: prof_pic.jpg
