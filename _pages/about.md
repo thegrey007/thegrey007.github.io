@@ -18,4 +18,4 @@ Hi! I'm Shreya, an incoming first-year MS EE student at Stanford. Previously, I 
 
 Outside of work, I love reading books (averaging 18 hours on my kindle this vacation!) and solving crosswords. I am also an amateur tennis player, a sport I picked up during my time at IIT Madras and hope to get better at in the coming years.
 
-If you'd like to chat or discuss anything with me, feel free to reach out at sramanuj <at> stanford <dot> edu. 
+If you'd like to chat or discuss anything with me, feel free to reach out at sramanuj \<at\> stanford \<dot\> edu. 
