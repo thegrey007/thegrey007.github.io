@@ -1,6 +1,6 @@
 ---
-layout: about
-title: about
+layout: About
+title: About
 permalink: /
 subtitle: <a href="https://www.linkedin.com/in/shreya-s-ramanujam/" target="_blank">LinkedIn</a>. <a href="https://github.com/thegrey007" target="_blank">GitHub</a>. <a href="mailto:sramanuj@stanford.edu">Email</a>. 
 profile:
