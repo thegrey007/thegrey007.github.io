@@ -11,7 +11,7 @@ profile:
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 Hi! I am Shreya S Ramanujam, an incoming first-year MS EE student at Stanford. Previously, I earned my B. Tech in Electrical Engineering from IIT Madras, where I graduated ranked 2<sup>nd</sup> in my department and won the American Express Award for the best academic record among all women graduates. I also earned a Minor in AI/ML. My interests lie in the theoretical aspects of machine learning, especially generative models. My B. Tech Thesis under [Prof. Andrew Thangaraj](https://www.ee.iitm.ac.in/andrew/) was on experimentally and theoretically analyzing model collapse in a wide range of generative models.
